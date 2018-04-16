@@ -15,7 +15,7 @@
 
 ## introduction
 ### you
-- tell a little bit aobut yourself
+- tell a little bit about yourself
 - what is your motivation?
 
 ### your setup

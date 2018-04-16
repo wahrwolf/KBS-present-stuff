@@ -15,7 +15,7 @@
 
 ## motivation
 - everyone has to hold presentations at one point
-- often infront of people
+- often in front of people
 - different content, simliar form
   1) plan it
   2) write down the topics

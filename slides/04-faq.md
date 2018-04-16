@@ -11,7 +11,7 @@
 - skip things if necessary
 - stay in control
 
-## don'ts
+## don\'ts
 - do not excuse yourself
 - do not let some weirdo take over your presentation
 - do not assume you are the smartest one in the room
