@@ -24,4 +24,4 @@
 - hold in front of different people
 - use standard software
 - be lazy do not repeat yourself
-- b6y, do1811
+- b6y, do1811afeaea
